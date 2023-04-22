@@ -1,6 +1,9 @@
 
 # Garage to Garage Delivery Expanded
 BeamNG Garage to Garage Delivery mission expansion mod for default maps.
+
+![](https://imgur.com/a/PDqrZkY)
+
 ## Features
 - Add Garage to Garage Delivery scenario for Small Island.
 - Add Garage to Garage Delivery scenario for Industrial Site.
